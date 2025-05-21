@@ -1,5 +1,5 @@
 # Sparse Matrix Operations retrieved from the file
-from sparse_matrix.code.src.matrix_operations import SparseMatrix, InvalidFormatException
+from matrix_operations import SparseMatrix, InvalidFormatException
 
 ## This program performs operations on sparse matrices
 ## It reads the matrices from files, performs addition, subtraction, or multiplication
